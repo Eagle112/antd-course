@@ -17,6 +17,9 @@ export default {
           { path: '/dashboard/monitor', component: 'Dashboard/Monitor' },
           { path: '/dashboard/workplace', component: 'Dashboard/Workplace' }
         ]
+      },{
+        path: '/puzzlecards',
+        component: './puzzlecards'
       }
     ]
   }],
